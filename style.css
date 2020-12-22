@@ -1,0 +1,36 @@
+body{
+    box-sizing: border-box;
+}
+
+.row{
+   
+    margin-top: 6em;
+}
+
+tr:hover {
+    opacity: 0.6;
+}
+label.validation-error{
+    color:   red;
+    margin-left: 5px;
+} 
+
+table{
+    border-collapse: collapse;
+}
+table.list{
+    width:100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even),table.list thead>tr {
+    background-color: #dddddd;
+}
+
+.hide{
+    display:none;
+}
