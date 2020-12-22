@@ -8,4 +8,5 @@ Good for understanding and learning
 
 PFA the screenshot:
 
-![Application] (forreadme.png)
+<img src="https://github.com/Simran-Sahni/CRUDwithJavascript/blob/master/forreadme.png"/>
+
