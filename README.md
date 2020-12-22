@@ -1,6 +1,6 @@
-This project uses pure javascript, to add delete update and read data from html/javascript/CSS-Bootstrap
-*No* session storage
-Simple display of data in the current session
+This project uses pure javascript, to add delete update and read data from html/javascript/CSS-Bootstrap <br>
+__No__ session storage <br>
+Simple display of data in the current session <br>
 
 Uses jquery/javascript extensively
 
@@ -8,4 +8,4 @@ Good for understanding and learning
 
 PFA the screenshot:
 
-![Application] (/forreadme.png)
+![Application] (forreadme.png)
